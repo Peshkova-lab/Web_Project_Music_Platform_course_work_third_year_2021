@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "dts-css-modules-loader": "^1.2.4"
+  }
+}
