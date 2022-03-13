@@ -1,0 +1,14 @@
+.track {
+    margin-bottom: 80px;
+    padding: 25px;
+    background-color: rgba(255, 255, 255, 0.178);
+    display: flex;
+    border-radius: 0px;
+    box-shadow: 0px 0px 20px rgb(0, 0, 0);
+}
+
+.track:hover{
+    background-color: rgba(201, 38, 38, 0.178);
+    
+    box-shadow: 0px 0px 30px rgb(0, 0, 0);
+}

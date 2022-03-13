@@ -1,0 +1,22 @@
+.bg{
+    background:
+    linear-gradient(217deg, rgba(11, 6, 82, 0.8), rgba(255,0,0,0) 70.71%),
+    linear-gradient(127deg, rgba(133, 23, 100, 0.8), rgba(0,255,0,0) 70.71%),
+    linear-gradient(336deg, rgba(23, 75, 117, 0.932), rgba(0, 0, 255, 0) 70.71%);
+    color: #afffff;
+    padding-top: 150px;
+    padding-bottom: 358px;
+
+}
+
+.bgg{
+    padding: 20px;
+}
+
+.button{
+    color: rgb(59, 89, 255);
+}
+.button:hover{
+    color: rgb(90, 40, 136)
+}
+

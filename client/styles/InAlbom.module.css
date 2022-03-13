@@ -1,0 +1,45 @@
+.bg{
+    margin: center;
+    background:
+    linear-gradient(217deg, rgba(11, 6, 82, 0.8), rgba(255,0,0,0) 70.71%),
+    linear-gradient(127deg, rgba(133, 23, 100, 0.8), rgba(0,255,0,0) 70.71%),
+    linear-gradient(336deg, rgba(23, 75, 117, 0.932), rgba(0, 0, 255, 0) 70.71%);
+    color: rgb(175, 255, 255);
+    padding-top: 80px;
+    padding-bottom: 336px;
+    font-family: papyrus;
+    
+}
+
+.backbutton{
+    color: rgb(255, 255, 255);
+    font-family: papyrus;
+    width: 400px;
+    margin-top: 20px;
+}
+.backbutton:hover{
+    color: rgb(255, 112, 236);
+}
+
+.box{
+    
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.headerr{
+    margin-top: 100px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0);
+    box-shadow: 0px 0px 30px rgb(0, 0, 0);
+    
+    font-family: papyrus;
+}
+
+.button{
+    color: rgb(255, 255, 255);
+    font-family: papyrus;
+}
+.button:hover{
+    color: rgb(255, 112, 236);
+
+}
